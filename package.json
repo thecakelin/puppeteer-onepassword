@@ -1,4 +1,7 @@
 {
+  "name": "puppeteering",
+  "version": "0.0.0",
+  "type": "module",
   "dependencies": {
     "dotenv": "^8.2.0",
     "puppeteer": "^2.0.0"
